@@ -1,5 +1,5 @@
 Close all orders EA bot
-Desciption: The EA bot is using to close all the open orders at 05:01 am GMT+7 everyday, bot will scan every 500ms to check right time and open orders.
+Desciption: The EA bot is using to close all the open orders at 05:01 am GMT+7 everyday, bot will scan every 500ms to check right time and the open orders.
 Programming language: mql5
 Plan:
 - Bot-name: CloseAll
